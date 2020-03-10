@@ -1,0 +1,14 @@
+img{
+    width:90px;}
+h2{
+    font-family:fantasy; font-size:45px;
+}
+body{
+    background-color: aquamarine
+}
+a{ font-size: 35px
+    ;}
+a:hover{
+background-color:beige;
+    font-size: 40px;
+}
